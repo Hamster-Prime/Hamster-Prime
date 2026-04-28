@@ -1,12 +1,12 @@
 <div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A7A&center=true&vCenter=true&multiline=false&repeat=false&width=435&lines=Hi,+I'm+Sanite%26Ava)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Bots+%7C+Net+Infra+%7C+LLM+Automation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAD4D4&center=true&vCenter=true&multiline=false&repeat=false&width=435&lines=Bots+%7C+Net+Infra+%7C+LLM+Automation)
 
 </div>
 
 ---
-
-## Hi, I'm Sanite&Ava 👋
 
 I'm a builder who works across **network infrastructure** and **AI automation**.
 
