@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A7A&center=true&vCenter=true&multiline=false&repeat=false&width=435&lines=Hi,+I'm+Sanite%26Ava)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF7A7A&center=true&vCenter=true&multiline=false&repeat=false&width=300&lines=Hi,+I'm+Sanite%26Ava)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FAD4D4&center=true&vCenter=true&multiline=false&repeat=false&width=435&lines=Bots+%7C+Net+Infra+%7C+LLM+Automation)
 
@@ -52,15 +52,4 @@ The best code I write is the code I forget is running.
 ![HomeAssistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293A42?style=for-the-badge&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Hamster-Prime&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=30363d" width="400"/></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamster-Prime&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" width="400"/></td>
-</tr>
 </div>
