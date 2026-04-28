@@ -1,67 +1,51 @@
-# Hey, I'm Sanite&Ava 👋
+<div align="center">
 
-Building things at the intersection of **network infrastructure** and **AI automation**.
+# Hey there, I'm Sanite&Ava 👋
 
-Most of my work starts with a simple question: *"Can a bot do this better than a human clicking through menus?"* — and the answer is almost always yes.
+**Network infra × AI automation builder**
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Building+Telegram+Bots;Automating+Network+Infra;Making+LLMs+Do+Real+Work)
 
-## What I Work On
-
-**Telegram Bot Ecosystem** —群组管理、内容审核、双向通信、RSS订阅，把重复性社群运维交给 AI
-
-**Network Infrastructure** — RouterOS/BIRD 脚本、DNS 智能分流、OSPF 隧道，折腾各种网络拓扑
-
-**AI-Powered Tools** — 语音合成、语音助手、LLM 驱动的决策引擎，让大模型不只是聊天
-
-**Home Automation** — Home Assistant 自定义集成，把生活场景也自动化
+</div>
 
 ---
 
-## Flagship Projects
+### 🔥 Featured
 
-### [Telegram Anti-harassment Bot](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot)
-**185 ⭐** — Telegram 双向聊天机器人，支持 AI 内容过滤、人机验证、话题群组转发、私聊助理。从 Python 到 Rust (teloxide) 重写，单二进制部署。
-
-### [DNS Automatic Traffic Splitting](https://github.com/Hamster-Prime/DNS_automatic_traffic_splitting)
-**69 ⭐** — 高性能 DNS 代理，多协议接入，自动根据 Geo 分流国内外流量。
-
-### [Smart Group Bot](https://github.com/Hamster-Prime/Smart_Group_Bot)
-LLM 驱动的智能群聊管理——三级决策引擎 + ChromaDB 知识库 + 动态群规 + 内容审查，Provider Pool 支持多模型自动故障转移。
-
-### [Legado TTS Server](https://github.com/Hamster-Prime/legado-tts-server)
-**8 ⭐** — 聚合 Edge TTS / 火山引擎 / 腾讯云 / 小米 / Fish Audio 五大 Provider 的语音合成服务，OpenAI 兼容接口，支持长文本分块、角色化朗读、Prometheus 监控。
-
-### [Gemini Live PC Assistant](https://github.com/Hamster-Prime/gemini-live-pc-assistant)
-基于 Gemini 3.1 Flash Live API 的 Windows 语音助手，支持语音唤醒、实时对话和电脑操控。
-
-### [RSS Bot](https://github.com/Hamster-Prime/RSS_Bot)
-**7 ⭐** — Telegram RSS 订阅机器人，后台定时检查 + 关键词过滤。
+| Project | Stars | What it does |
+|---------|-------|--------------|
+| [**Anti-harassment Bot**](https://github.com/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot) | ![](https://img.shields.io/github/stars/Hamster-Prime/Telegram_Anti-harassment_two-way_chatbot?style=social) | AI 双向聊天 · 内容过滤 · 人机验证 · Rust 重写 |
+| [**DNS Traffic Splitting**](https://github.com/Hamster-Prime/DNS_automatic_traffic_splitting) | ![](https://img.shields.io/github/stars/Hamster-Prime/DNS_automatic_traffic_splitting?style=social) | Geo 自动分流 · 多协议 · 高性能 DNS 代理 |
+| [**Smart Group Bot**](https://github.com/Hamster-Prime/Smart_Group_Bot) | ![](https://img.shields.io/github/stars/Hamster-Prime/Smart_Group_Bot?style=social) | LLM 决策引擎 · 知识库 · 群规审查 |
+| [**Legado TTS**](https://github.com/Hamster-Prime/legado-tts-server) | ![](https://img.shields.io/github/stars/Hamster-Prime/legado-tts-server?style=social) | 5 Provider 聚合 · 角色化朗读 · OpenAI 兼容 |
 
 ---
 
-## Tech Stack
+### 🧰 Tech Stack
 
-```
-Languages:  Python · Shell · RouterOS Script · TypeScript · C++
-AI/LLM:     Gemini · Claude · OpenAI · ChromaDB · sentence-transformers
-Network:    MikroTik RouterOS · BIRD · OSPF · VLESS/Reality · DNS
-Platforms:  Telegram Bot API · Home Assistant · Docker · FastAPI
-Databases:  SQLite · SQLAlchemy · sqlx
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293A42?style=for-the-badge&logoColor=white)
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googleai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-D9F99D?style=for-the-badge&logoColor=black)
+
+</div>
 
 ---
 
-## What I Believe
+<div align="center">
 
-> Good automation doesn't replace humans — it removes the boring parts so humans can focus on what matters.
+![Hamster-Prime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamster-Prime&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=30363d)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamster-Prime&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=30363d)
 
-> The best bot is one you forget is there until you need it.
-
----
-
-## GitHub Stats
-
-![Hamster-Prime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamster-Prime&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamster-Prime&layout=compact&theme=radical&hide_border=true)
+</div>
